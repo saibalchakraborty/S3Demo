@@ -19,7 +19,7 @@ public class RandomController {
 	
 	@Autowired
 	private RandomService service;
-
+	
 	/**
 	 * Generates presigned url of objects from private S3 bucket
 	 * @param object

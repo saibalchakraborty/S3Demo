@@ -45,6 +45,11 @@
 			<artifactId>aws-java-sdk</artifactId>
 			<version>1.11.1000</version>
 		</dependency>
+		<!-- Actuator -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
